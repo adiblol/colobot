@@ -1,4 +1,1 @@
-colobot
-=======
-
-Repository moved.
+This repository has moved to [group Colobot](https://github.com/colobot/colobot).
